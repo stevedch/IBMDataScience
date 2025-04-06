@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+*.nbconvert.ipynb
+output/
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Logs
+*.log
+
+# Personal notebooks outputs
+*.out
+*.log
+*.tmp
+
+# Python pip files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore exported data or datasets
+data/
+*.csv
+*.xlsx
+*.tsv
+*.json
+
+# Backup files
+*~
+*.bak
+*.swp
